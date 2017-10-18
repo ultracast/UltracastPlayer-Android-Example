@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ultracast.player.BasePlayerActivity">
+
+    <item
+        android:id="@+id/vr_btn"
+        android:icon="@drawable/vr_top_btn"
+        app:showAsAction="ifRoom"
+        android:title="@string/vr" />
+
+    <item
+        android:id="@+id/gyro_btn"
+        android:icon="@drawable/gyro_top_btn"
+        app:showAsAction="ifRoom"
+        android:title="@string/gyro" />
+
+</menu>

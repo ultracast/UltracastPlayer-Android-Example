@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Video</string>
+    <string name="title_activity_demo">DemoPlayer</string>
+    <string name="vr">vr</string>
+    <string name="gyro">gyro</string>
+</resources>
